@@ -1,0 +1,218 @@
+/* header css */
+
+#logo2 {
+    margin-right: 20px;
+}
+
+#notif p{
+    position: relative;
+    display: inline;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(2, 189, 189);
+    margin-left: 100px;
+    top: 10px;
+}
+
+#notif a {
+    text-decoration: none;
+}
+
+#notpe p {
+    position: absolute;
+    display: inline;
+    text-transform: uppercase;
+    top: 0px;
+    right: 60px;
+}
+
+#bhe {
+    position: absolute;
+    background-color:rgba(2, 189, 189, 0.205);
+    padding: 27px 80px;
+    right: 0px;
+    top: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Premain css */
+
+#menudi {
+    font-weight: bold;
+    color: rgb(2, 189, 189);
+    line-height: 40px;
+    font-size: 15px;
+    overflow-y: auto;
+    width: 170px;
+    height: 700px;
+    position:relative;
+}
+
+#menudi a {
+    cursor: pointer;
+    text-decoration: none;
+    color: rgb(2, 189, 189);
+}
+
+
+/* Main css */
+
+main {
+    position: relative;
+    overflow-y: auto;
+    height: 700px;
+}
+
+#sac {
+    bottom: 200px;
+    right: 18px;
+    position: relative;
+    padding: 70px 72px;
+    border-radius: 5px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: rgb(2, 189, 189);
+    border-color: rgb(2, 189, 189);
+    color: white;
+    margin-top: 0px;
+}
+
+#notas {
+    bottom:200px;
+    right: 28px;
+    position: relative;
+    padding: 70px 63px;
+    border-radius: 5px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: rgb(2, 189, 189);
+    border-color: rgb(2, 189, 189);
+    color: white;
+    margin-top: 0px;
+}
+
+#liv {
+    bottom:400px;
+    left: 420px;
+    position: relative;
+    padding: 70px 30px;
+    border-radius: 5px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: rgb(2, 189, 189);
+    border-color: rgb(2, 189, 189);
+    color: white;
+    margin-top: 0px;
+}
+
+
+#disp {
+    bottom:400px;
+    left: 410px;
+    position: relative;
+    padding: 70px 30px;
+    border-radius: 5px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: rgb(2, 189, 189);
+    border-color: rgb(2, 189, 189);
+    color: white;
+    margin-left: 50px;
+    margin-top: 0px;
+}
+
+#disp:hover{
+    cursor: pointer;
+}
+
+#disp:active {
+    background-color: white;
+    color: rgb(2, 189, 189);
+}
+
+
+#liv:hover{
+    cursor: pointer;
+}
+
+#liv:active {
+    background-color: white;
+    color: rgb(2, 189, 189);
+}
+
+
+#notas:hover{
+    cursor: pointer;
+}
+
+#notas:active {
+    background-color: white;
+    color: rgb(2, 189, 189);
+}
+
+
+#sac:hover{
+    cursor: pointer;
+}
+
+#sac:active {
+    background-color: white;
+    color: rgb(2, 189, 189);
+}
+
+#menuce {
+    font-weight: bold;
+    margin-left: 50px;
+    width: 700px;
+    height: 400px;
+    overflow-y: scroll;
+}
+
+#menuce2 {
+    position: relative;
+    font-weight: bold;
+    margin-left: 50px;
+    width: 1180px;
+    overflow-y: auto;
+    bottom: 150px;
+    margin-top: -300px;
+    text-transform: uppercase;
+}
+
+#dat {
+    color: rgb(2, 189, 189);
+}
+
+#disat a{
+    color:rgba(128, 128, 128, 0.781);
+    text-decoration: none;
+}
+
+#cupr a{
+    color:rgba(128, 128, 128, 0.781);
+    text-decoration: none;
+}
+
+/* Footer css */
+
+#footer {
+    position: relative;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Body css */
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    margin-bottom: -500px;
+}
